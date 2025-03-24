@@ -1,56 +1,56 @@
-A responsive and user-friendly calculator built using HTML, CSS (Bootstrap), and JavaScript (jQuery).
+** A responsive and user-friendly calculator built using HTML, CSS (Bootstrap), and JavaScript (jQuery)..**
 
-Features
+**Features:**
 
-Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
+ 1. Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
+  
+ 2. NumLock functionality to enable/disable numeric inputs.
+  
+ 3. Real-time display updates.
+  
+ 4. Keyboard support for better usability.
+  
+ 5. Responsive design for mobile and desktop users.
 
-NumLock functionality to enable/disable numeric inputs.
+**Technologies Used**
 
-Real-time display updates.
+   ** HTML5 **for structuring the content.
+    
+   ** CSS3 & Bootstrap** for styling and layout.
+    
+   ** jQuery** for dynamic interactions.
 
-Keyboard support for better usability.
-
-Responsive design for mobile and desktop users.
-
-Technologies Used
-
-HTML5 for structuring the content.
-
-CSS3 & Bootstrap for styling and layout.
-
-jQuery for dynamic interactions.
-
-Installation
+**Installation**
 
 Clone the repository:
 
-git clone https://github.com/your-username/calculator-project.git
+  git clone https://github.com/LAXMIKANT02/Simple_Calculator.git
 
-Open index.html in any web browser.
+  Open index.html in any web browser.
 
-Usage
+**Usage**
 
-Click on the buttons or use the keyboard for input.
+  1. Click on the buttons or use the keyboard for input.
+  
+  2. Press = or Enter to evaluate the expression.
+  
+  3. Use CE to clear the entire input.
+  
+  4. Use Del or Backspace to delete the last entered character.
+  
+  5. Toggle Num Lock to enable/disable numeric input.
 
-Press = or Enter to evaluate the expression.
+**Contributing
+**
+->Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-Use CE to clear the entire input.
-
-Use Del or Backspace to delete the last entered character.
-
-Toggle Num Lock to enable/disable numeric input.
-
-Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-License
+**License**
 
 This project is licensed under the MIT License.
 
-Copyright
+**Copyright**
 
-© 2025 Laxmikant. All rights reserved.
+--> © 2025 Laxmikant. All rights reserved.
 
-Author: Laxmikant
+**Author: Laxmikant**
 
