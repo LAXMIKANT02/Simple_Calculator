@@ -1,4 +1,4 @@
-** A responsive and user-friendly calculator built using HTML, CSS (Bootstrap), and JavaScript (jQuery)..**
+ A responsive and user-friendly calculator built using HTML, CSS (Bootstrap), and JavaScript (jQuery)..
 
 **Features:**
 
@@ -14,11 +14,11 @@
 
 **Technologies Used**
 
-   ** HTML5 **for structuring the content.
+   "HTML5" for structuring the content.
     
-   ** CSS3 & Bootstrap** for styling and layout.
+   "CSS3 & Bootstrap" for styling and layout.
     
-   ** jQuery** for dynamic interactions.
+   "jQuery" for dynamic interactions.
 
 **Installation**
 
@@ -42,6 +42,7 @@ Clone the repository:
 
 **Contributing
 **
+
 ->Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 **License**
